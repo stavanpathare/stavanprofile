@@ -16,7 +16,6 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript to s
 - 🛠 Skills
 - 📚 Projects with live links
 - 📞 Contact form
-- 📄 Resume Download (optional)
 
 ## 📸 Screenshots
 ![Homepage](assets/screenshot.png)  
